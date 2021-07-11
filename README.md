@@ -40,11 +40,11 @@ A collection of all articles written for the AI Summer blog organized by topic.
 
 ### Attention and Transformers
 
-- [https://theaisummer.com/attention/](https://theaisummer.com/attention/)
-- [https://theaisummer.com/transformer/](https://theaisummer.com/transformer/)
-- [https://theaisummer.com/vision-transformer/](https://theaisummer.com/vision-transformer/)
-- [https://theaisummer.com/positional-embeddings/](https://theaisummer.com/positional-embeddings/)
-- [https://theaisummer.com/self-attention/](https://theaisummer.com/self-attention/)
+- [How Attention works in Deep Learning: understanding the attention mechanism in sequence models](https://theaisummer.com/attention/)
+- [How Transformers work in deep learning and NLP: an intuitive introduction](https://theaisummer.com/transformer/)
+- [How the Vision Transformer (ViT) works in 10 minutes: an image is worth 16x16 words](https://theaisummer.com/vision-transformer/)
+- [How Positional Embeddings work in Self-Attention (code in Pytorch)](https://theaisummer.com/positional-embeddings/)
+- [Why multi-head self attention works: math, intuitions and 10+1 hidden insights](https://theaisummer.com/self-attention/)
 
 ### Graph Neural Networks
 
@@ -69,7 +69,7 @@ A collection of all articles written for the AI Summer blog organized by topic.
 
 ### Image segmentation
 
-- [https://theaisummer.com/unet-architectures/](https://theaisummer.com/unet-architectures/)
+- [An overview of Unet architectures for semantic segmentation and biomedical image segmentation](https://theaisummer.com/unet-architectures/)
 - [Semantic Segmentation in the era of Neural Networks](https://theaisummer.com/Semantic_Segmentation/)
 
 ### Object detection
