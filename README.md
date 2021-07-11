@@ -19,7 +19,7 @@ A collection of all articles written for the AI Summer blog organized by topic.
 
 ### Recurrent Neural Networks
 
-- [Recurrent neural networks: building a custom LSTM cell](https://theaisummer.com/understanding-lstm/)
+- [Recurrent neural networks: building a custom LSTM cell](https://theaisummer.com/understanding-lstm/) ([colab](https://colab.research.google.com/drive/1Rb8OiF-AZ_Y3uFj1O2S0IyocFMhHoTCV?usp=sharing) / [repo](https://github.com/The-AI-Summer/RNN_tutorial))
 - [Recurrent Neural Networks: building GRU cells VS LSTM cells in Pytorch](https://theaisummer.com/gru/)
 - [Predict Bitcoin price with Long sort term memory Networks (LSTM)](https://theaisummer.com/Bitcon_prediction_LSTM/)
 
@@ -31,7 +31,7 @@ A collection of all articles written for the AI Summer blog organized by topic.
 ### Generative Adversarial Networks
 
 - [Decrypt Generative Adversarial Networks (GAN)](https://theaisummer.com/Generative_Artificial_Intelligence/)
-- [GANs in computer vision - Introduction to generative learning](https://theaisummer.com/gan-computer-vision/)
+- [GANs in computer vision - Introduction to generative learning](https://theaisummer.com/gan-computer-vision/) ([repo](https://github.com/The-AI-Summer/GANs-in-Computer-Vision))
 - [GANs in computer vision - Conditional image synthesis and 3D object generation](https://theaisummer.com/gan-computer-vision-object-generation/)
 - [GANs in computer vision - Improved training with Wasserstein distance, game theory control and progressively growing schemes](https://theaisummer.com/gan-computer-vision-incremental-training/)
 - [GANs in computer vision - 2K image and video synthesis, and large-scale class-conditional image generation](https://theaisummer.com/gan-computer-vision-video-synthesis/)
@@ -49,7 +49,7 @@ A collection of all articles written for the AI Summer blog organized by topic.
 ### Graph Neural Networks
 
 - [Graph Neural Networks - An overview](https://theaisummer.com/Graph_Neural_Networks/)
-- [How Graph Neural Networks (GNN) work: introduction to graph convolutions from scratch](https://theaisummer.com/graph-convolutional-networks/)
+- [How Graph Neural Networks (GNN) work: introduction to graph convolutions from scratch](https://theaisummer.com/graph-convolutional-networks/) ([colab](https://colab.research.google.com/drive/1mMUKnvM_Byu8wEcJpFSYGnniPPhIOD7N?usp=sharing))
 
 ### Self-supervised Learning
 
@@ -86,6 +86,7 @@ A collection of all articles written for the AI Summer blog organized by topic.
 - [A closer look on Deepfakes: face sythesis with StyleGAN, face swap with XceptionNet and facial attributes and expression manipulation with StarGAN](https://theaisummer.com/deepfakes/)
 
 ### Recommendation systems
+
 - [An introduction to Recommendation Systems: an overview of machine and deep learning architectures](https://theaisummer.com/recommendation-systems/)
 
 ### Autonomous cars
@@ -94,18 +95,18 @@ A collection of all articles written for the AI Summer blog organized by topic.
 
 ### Medical imaging
 
-- [Deep learning in medical imaging - 3D medical image segmentation with PyTorch](https://theaisummer.com/medical-image-deep-learning/)
+- [Deep learning in medical imaging - 3D medical image segmentation with PyTorch](https://theaisummer.com/medical-image-deep-learning/) ([repo](https://github.com/black0017/MedicalZooPytorch))
 - [Understanding coordinate systems and DICOM for deep learning medical image analysis](https://theaisummer.com/medical-image-coordinates/)
-- [Introduction to 3D medical imaging for machine learning: preprocessing and augmentations](https://theaisummer.com/medical-image-processing/)
+- [Introduction to 3D medical imaging for machine learning: preprocessing and augmentations](https://theaisummer.com/medical-image-processing/) ([colab](https://colab.research.google.com/drive/1fyU_YaZUO3B5qVzBJwGoYZ6XVvVLog30?usp=sharing))
 - [Deep learning in MRI beyond segmentation: Medical image reconstruction, registration, and synthesis](https://theaisummer.com/mri-beyond-segmentation/)
 - [Transfer learning in medical imaging: classification and segmentation](https://theaisummer.com/medical-imaging-transfer-learning/)
-- [Introduction to medical image processing with Python: CT lung and vessel segmentation without labels](https://theaisummer.com/medical-image-python/)
+- [Introduction to medical image processing with Python: CT lung and vessel segmentation without labels](https://theaisummer.com/medical-image-python/) ([colab](https://colab.research.google.com/drive/1kUOkey3CjWoebA5tVu2oazydFKpJKhrU?usp=sharing) / [repo](https://github.com/black0017/ct-intensity-segmentation) )
 
 ### Audio
 
 - [Speech synthesis: A review of the best text to speech architectures with Deep Learning](https://theaisummer.com/text-to-speech/)
 
-## MLOps
+## MLOps ([repo](https://github.com/The-AI-Summer/Deep-Learning-In-Production))
 
 ### Best practices
 
@@ -135,10 +136,10 @@ A collection of all articles written for the AI Summer blog organized by topic.
 
 ## Libraries tutorials
 
-### JAX
+### JAX ([repo](https://github.com/The-AI-Summer/JAX-examples))
 
 - [JAX for Machine Learning: how it works and why learn it](https://theaisummer.com/jax/)
-- [https://theaisummer.com/jax-transformer/](https://theaisummer.com/jax-transformer/)
+- [Build a Transformer in JAX from scratch: how to write and train your own models](https://theaisummer.com/jax-transformer/)
 - [JAX vs Tensorflow vs Pytorch: Building a Variational Autoencoder (VAE)](https://theaisummer.com/jax-tensorflow-pytorch/)
 
 ### Tensorflow Extended (TFX)
@@ -147,7 +148,7 @@ A collection of all articles written for the AI Summer blog organized by topic.
 
 ### Hugging face
 
-- [A complete Hugging Face tutorial: how to build and train a vision transformer](https://theaisummer.com/hugging-face-vit/)
+- [A complete Hugging Face tutorial: how to build and train a vision transformer](https://theaisummer.com/hugging-face-vit/) ([repo](https://github.com/The-AI-Summer/Hugging_Face_tutorials))
 
 ### Weights and Biases (wandb)
 
@@ -155,7 +156,7 @@ A collection of all articles written for the AI Summer blog organized by topic.
 
 ### Einsum and einops
 
-- [Understanding einsum for Deep learning: implement a transformer with multi-head self-attention from scratch](https://theaisummer.com/einsum-attention/)
+- [Understanding einsum for Deep learning: implement a transformer with multi-head self-attention from scratch](https://theaisummer.com/einsum-attention/) ([repo](https://github.com/The-AI-Summer/self-attention-cv))
 
 ### GPU programming
 
@@ -170,6 +171,7 @@ A collection of all articles written for the AI Summer blog organized by topic.
 - [Apply Machine Learning to your Business](https://theaisummer.com/Machine-Learning-Business)
 
 ## Resources
+
 - [Top 10 courses to learn Machine and Deep Learning](https://theaisummer.com/Top_10_courses_to_learn_Machine_and_Deep_Learning/)
 - [Best Artificial Intelligence books to read](https://theaisummer.com/Best-Artificial-Intelligence-books-to-read/)
 - [The Best Machine Learning books to learn AI](https://theaisummer.com/machine-learning-books/)
