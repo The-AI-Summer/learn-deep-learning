@@ -1,6 +1,6 @@
 # Learn Deep Learning with AI Summer
 
-A collection of all articles written for the AI Summer blog organized by topic.
+A collection of all articles (almost 100) written for the AI Summer blog organized by topic.
 
 ## Deep Learning Theory
 
