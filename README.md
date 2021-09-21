@@ -1,3 +1,21 @@
+
+<div align="center">
+<img  src="https://theaisummer.com/static/cdd4b958f811f0af03208dbdd27809c3/69585/logo_large.png">
+<br>
+</div>
+
+<br>
+
+<div align="center">
+    <a target="_blank" href="https://www.linkedin.com/company/ai-summer/"><img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social"></a>&nbsp;
+    <a target="_blank" href="https://www.twitter.com/theaisummer"><img src="https://img.shields.io/twitter/follow/theaisummer?label=%20Follow&style=social"></a>&nbsp;
+  <a target="_blank" href="https://discord.gg/2ezWq3r5hv"><img src="https://img.shields.io/badge/Discord-lightgrey?style=flat&logo=discord"></a>&nbsp;
+    <br>
+</div>
+
+<br>
+
+
 # Learn Deep Learning with AI Summer
 
 A collection of all articles (almost 100) written for the AI Summer blog organized by topic.
