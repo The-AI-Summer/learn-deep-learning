@@ -105,6 +105,11 @@ A collection of all articles (almost 100) written for the AI Summer blog organiz
 ### Audio
 
 - [Speech synthesis: A review of the best text to speech architectures with Deep Learning](https://theaisummer.com/text-to-speech/)
+- [Speech Recognition: a review of the different deep learning approaches](https://theaisummer.com/speech-recognition/)
+
+### Biology
+- [Deep learning on computational biology and bioinformatics tutorial: from DNA to protein folding and alphafold2](https://theaisummer.com/deep-learning-biology-alphafold/)
+
 
 ## MLOps ([repo](https://github.com/The-AI-Summer/Deep-Learning-In-Production))
 
