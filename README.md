@@ -28,6 +28,7 @@ A collection of all articles (almost 100) written for the AI Summer blog organiz
 - [Regularization techniques for training deep neural networks](https://theaisummer.com/regularization/)
 - [In-layer normalization techniques for training very deep neural networks](https://theaisummer.com/normalization/)
 - [Explainable AI (XAI): A survey of recents methods, applications and frameworks](https://theaisummer.com/xai/)
+- [Spiking Neural Networks: where neuroscience meets artificial intelligenc](https://theaisummer.com/spiking-neural-networks/)
 
 ### Convolutional Neural Networks
 
@@ -63,16 +64,19 @@ A collection of all articles (almost 100) written for the AI Summer blog organiz
 - [How the Vision Transformer (ViT) works in 10 minutes: an image is worth 16x16 words](https://theaisummer.com/vision-transformer/)
 - [How Positional Embeddings work in Self-Attention (code in Pytorch)](https://theaisummer.com/positional-embeddings/)
 - [Why multi-head self attention works: math, intuitions and 10+1 hidden insights](https://theaisummer.com/self-attention/)
+- [Transformers in computer vision: ViT architectures, tips, tricks and improvements](https://theaisummer.com/transformers-computer-vision/)
 
 ### Graph Neural Networks
 
 - [Graph Neural Networks - An overview](https://theaisummer.com/Graph_Neural_Networks/)
 - [How Graph Neural Networks (GNN) work: introduction to graph convolutions from scratch](https://theaisummer.com/graph-convolutional-networks/) ([colab](https://colab.research.google.com/drive/1mMUKnvM_Byu8wEcJpFSYGnniPPhIOD7N?usp=sharing))
+- [Best Graph Neural Network architectures: GCN, GAT, MPNN and more](https://theaisummer.com/gnn-architectures/)
 
 ### Self-supervised Learning
 
 - [Grokking self-supervised (representation) learning: how it works in computer vision and why](https://theaisummer.com/self-supervised-representation-learning-computer-vision/)
 - [Self-supervised representation learning on videos](https://theaisummer.com/self-supervised-learning-videos/)
+- [Understanding SWAV: self-supervised learning with contrasting cluster assignments](https://theaisummer.com/swav/)
 
 ### Reinforcement Learning
 
@@ -119,6 +123,7 @@ A collection of all articles (almost 100) written for the AI Summer blog organiz
 - [Deep learning in MRI beyond segmentation: Medical image reconstruction, registration, and synthesis](https://theaisummer.com/mri-beyond-segmentation/)
 - [Transfer learning in medical imaging: classification and segmentation](https://theaisummer.com/medical-imaging-transfer-learning/)
 - [Introduction to medical image processing with Python: CT lung and vessel segmentation without labels](https://theaisummer.com/medical-image-python/) ([colab](https://colab.research.google.com/drive/1kUOkey3CjWoebA5tVu2oazydFKpJKhrU?usp=sharing) / [repo](https://github.com/black0017/ct-intensity-segmentation) )
+- [3D Medical image segmentation with transformers tutorial](https://theaisummer.com/medical-segmentation-transformers/) ([colab](https://colab.research.google.com/drive/1TdGo33zpX6_KqK1TtGVzBZTRW6SdZsrh?usp=sharing))
 
 ### Audio
 
@@ -201,3 +206,4 @@ A collection of all articles (almost 100) written for the AI Summer blog organiz
 - [Best bootcamps and programs to learn Machine Learning and Data Science](https://theaisummer.com/ml-bootcamps/)
 - [Best Resources to Learn Deep Learning Theory](https://theaisummer.com/deep-learning-theory-resources/)
 - [Top Resources to start with Computer Vision and Deep Learning](https://theaisummer.com/computer-vision-resources/)
+- [Best AI and Deep learning books to read in 2022](https://theaisummer.com/deep-learning-books-2022/)
